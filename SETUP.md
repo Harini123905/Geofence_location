@@ -147,3 +147,7 @@ network. Do not use the example database password in production.
 
 ## Netlify URL Preview
 [geofencelocationeditor.netlify.app](https://geofencelocationeditor.netlify.app)
+
+## Demo video
+
+[Watch the walkthrough on Loom](https://www.loom.com/share/ca768b19ca7c4b27b7ef93c42ea4ddd0)
