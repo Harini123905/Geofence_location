@@ -145,5 +145,5 @@ network. Do not use the example database password in production.
 - `frontend/`: React/Vite dashboard
 - `docker-compose.yml`: local PostGIS database and Go backend services
 
-## Netlify url preview
-[geofencelocationeditor.netlify.app][geofencelocationeditor.netlify.app]
+## Netlify URL Preview
+[geofencelocationeditor.netlify.app](https://geofencelocationeditor.netlify.app)
