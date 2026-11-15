@@ -144,3 +144,6 @@ network. Do not use the example database password in production.
 - `backend/`: Go HTTP API, WebSocket alert hub, and PostgreSQL migration
 - `frontend/`: React/Vite dashboard
 - `docker-compose.yml`: local PostGIS database and Go backend services
+
+## Netlify url preview
+geofencelocationeditor.netlify.app
