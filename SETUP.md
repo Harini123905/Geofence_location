@@ -146,4 +146,4 @@ network. Do not use the example database password in production.
 - `docker-compose.yml`: local PostGIS database and Go backend services
 
 ## Netlify url preview
-geofencelocationeditor.netlify.app
+[geofencelocationeditor.netlify.app][geofencelocationeditor.netlify.app]
